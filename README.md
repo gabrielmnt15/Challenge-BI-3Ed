@@ -1,6 +1,17 @@
 # Challenge BI 3° Edição
+
 O projeto consiste em realizar uma análise de Business Intelligence dos processos de 3 empresas fictícias, sendo essas as empresas "Bloco de Código", "Hermex" e "Meteora".
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Challenge BI 3° Edição**
+| :label: Tecnologias | Power BI, Dax, PowerQuery
+| :fire: Desafio     | https://www.alura.com.br/challenges/bi-3
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![dashboard-v1](https://github.com/user-attachments/assets/35618b30-e8b6-4338-8f85-5e9ed69b9b1d#vitrinedev)
+
+## Detalhes do projeto 
 Cada empresa atua em ramo diferente de mercado e análise consiste em analisar os dados operacionais da empresa em busca de insights que possam auxiliar a tomada de decisão ou aumentar e eficiência de seus processos operacionais. Ao mesmo, tempo organizar esses insights de um forma que seja *user friendly* através de um dashboard interativo que facilite a visualização desses insights.
 
 ## Ferramentas Utilizadas
